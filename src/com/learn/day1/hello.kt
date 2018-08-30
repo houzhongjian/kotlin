@@ -1,6 +1,6 @@
 package com.learn.day1
 
-fun main(args: Array<String>) {
+fun main(args: Array<String>)  {
     println("hello kotlin!")
     var name = "张三"
     println(name)
